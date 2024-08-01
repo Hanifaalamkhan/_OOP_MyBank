@@ -1,0 +1,20 @@
+{
+  "name": "_oop_mybank",
+  "version": "1.0.0",
+  "description": "This project aims to teach Object-Oriented Programming (OOP) using TypeScript. It translates OOP concepts from a C# tutorial into a TypeScript console application called MyBank.",
+  "main": "student.js",
+  "type": "module",
+  "bin": "student.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^10.1.6"
+  }
+}
